@@ -1,8 +1,3 @@
----
-title: "国内银联卡充值ChatGPT Plus教程 2026：Google Play 绑定国内银行卡订阅方法"
-description: "2026 年国内银联卡直接充值 ChatGPT Plus 的完整教程：Google Play 新加坡区绑定国内储蓄卡/信用卡，逐步操作截图，华为鸿蒙用户适用。"
----
-
 # 国内银联卡充值ChatGPT Plus教程
 
 > 最后更新：2026 年 8 月
