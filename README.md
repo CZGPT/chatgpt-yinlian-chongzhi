@@ -95,3 +95,5 @@ Google 账号地区一年只能改一次，且改区有条件限制。如果你�
 ---
 
 **相关阅读**：[ChatGPT/Claude/Codex 充值指南合集](https://github.com/CZGPT/chatgpt-chongzhi-guide) · 觉得有用请点个 ⭐ Star，有问题欢迎提 Issue。
+
+- [ChatGPT充值 / ChatGPT代充平台对比 2026](https://czgpt.github.io/chatgpt-chongzhi-daichong-duibi/)
